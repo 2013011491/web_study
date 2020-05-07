@@ -2,3 +2,5 @@
 <u>
 <h1> ~ <h6>  header 뒤로갈수록 크기 작아짐
 Top word 25 -https://pridiot.tistory.com/6 여기에 정리되있음
+
+<img> img 태그  <img src="">  태그에 속성 추가 
