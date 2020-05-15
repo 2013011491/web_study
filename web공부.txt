@@ -24,4 +24,8 @@ br 태그 보다 p 태그가 더 좋은 선택입니다.
 
 
 world wide web  웹 서버들이 운용되는 망
-web browser 웹 접속 도구   용여 이해
+web browser 웹 접속 도구   용어 이해
+
+HTTP HyperText Transfer Protocol 웹페이지 전송 규약
+
+<iframe></iframe>  동영상 태그
