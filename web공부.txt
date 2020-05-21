@@ -29,3 +29,15 @@ web browser 웹 접속 도구   용어 이해
 HTTP HyperText Transfer Protocol 웹페이지 전송 규약
 
 <iframe></iframe>  동영상 태그
+
+tawk.to  - 채팅기능
+disqus.com  - 댓글기능
+google analytic -  웹 서버 분석기
+
+<--   --> 주석
+<style></style> 스타일 태그 내부를 css로 작성
+<a  href=""  class="name" class="name name2"> class 값에대해서만 적용
+class 에 태그 여러개 적용 가능
+<style> 에서 변형시킬때는 .class naem
+#idname
+id="name"   id>class>
