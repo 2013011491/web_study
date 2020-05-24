@@ -1,0 +1,5 @@
+데이터 타입 종류
+ Boolean, Null, Undefined,Number,Sting, Symbol
+ Object
+
+string.length 문자열길이

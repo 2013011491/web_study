@@ -60,3 +60,11 @@ display: grid;
 --반응형디자인
 화면에 크기에 따라 웹요소들이 반응하도록 디자인
 미디어쿼리
+
+
+##javascript
+-event
+onclick 속성엔 자바스크립트가 와야한다
+attribute 속성 event 발생 
+
+-console
