@@ -3,3 +3,6 @@
  Object
 
 string.length 문자열길이
+
+element = document.querySelector(".myclass");
+document.querySelector(".myclass").sytle.backgroundColor

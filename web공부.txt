@@ -61,6 +61,7 @@ display: grid;
 화면에 크기에 따라 웹요소들이 반응하도록 디자인
 미디어쿼리
 
+<span> inline 내에서 스타일 만들때 <div>와 비슷하지만 전체를 쓰느냐 안쓰느냐 차이
 
 ##javascript
 -event
