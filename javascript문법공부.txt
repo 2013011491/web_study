@@ -1,5 +1,5 @@
 데이터 타입 종류
- Boolean, Null, Undefined,Number,Sting, Symbol
+ Boolean, Null, Undefined,Number,String, Symbol
  Object
 
 string.length 문자열길이
