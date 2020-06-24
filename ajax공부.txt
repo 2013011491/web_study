@@ -1,0 +1,1 @@
+single page application 하나의 html로 다표현하는

@@ -6,3 +6,44 @@ string.length 문자열길이
 
 element = document.querySelector(".myclass");
 document.querySelector(".myclass").sytle.backgroundColor
+
+tag 자신을 가리키는 this 명령어 있음
+
+var
+변수를 선언. 추가로 동시에 값을 초기화.
+let
+블록 범위(scope) 지역 변수를 선언. 추가로 동시에 값을 초기화.
+
+function name()
+{
+
+}
+
+object
+
+배열은 대괄호, 객체는 중괄호
+var coworekrs =[];
+var coworkers=
+{
+    "programmer":"anchan",
+    "designer":"leez"
+};
+
+object는 추가됨.
+
+coworkers.bookkeeper="duru";
+하면 추가  
+띄어쓰기 포함하고 싶을땐
+coworkers["data scientist"]="junho";
+
+JavaScript 라이브러리 중에 가장 유명한 건 당연
+03:33
+jQuery라고 하는 라이브러리입니다
+03:35
+이 jQuery라는 라이브러리는
+03:36
+상당히 오래 됐고 아주 안정적인 라이브러리예요
+
+또 웹페이지를 리로드하지 않고 정보를 변경하고 싶다면
+03:28
+ajax가 필요할 겁니다
