@@ -22,6 +22,7 @@ br 태그 보다 p 태그가 더 좋은 선택입니다.
 <meta charset="utf-8"> 문자속성이 다른경우 명시
 <a href="" target="_blank" title=""></a>  하이퍼링크 a는 anchor  target은 새창에 띄우고 하는설정, title은 마우스 가져다 댔을 때 툴팁
 
+<article> 태그는 해당 문서나 페이지 또는 사이트와는 완전히 독립적으로 구성할 수 있는 요소를 정의할 때 사용합니다.
 
 world wide web  웹 서버들이 운용되는 망
 web browser 웹 접속 도구   용어 이해
@@ -69,3 +70,9 @@ onclick 속성엔 자바스크립트가 와야한다
 attribute 속성 event 발생 
 
 -console
+
+
+hash 란  fragment identifier
+localhost:6000/a.html#three 해당 id로 이동
+
+#은 일반적으로 북마크를 나타내기 때문에 관습적으로 #!느낌표를 붙혀서사용 해시뱅

@@ -6,3 +6,8 @@ synchronous 응답을 무조건 기다리게
 asynch   응답 요청 이외에 것은 실행되게
 
 response 객체로 응답받음.
+
+ajax사용시 검색 최적화 문제가 있음
+
+
+polyfill  - 과거의 브라우저도 최신 api를 사용할수 있게끔 하는
